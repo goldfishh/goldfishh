@@ -13,9 +13,65 @@
 ## 🔧 Recent Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 33.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 127 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-No activity tracked
+🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+🌆 Daytime                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+🌃 Evening                106 commits         ████████████░░░░░░░░░░░░░   47.32 % 
+🌙 Night                  81 commits          █████████░░░░░░░░░░░░░░░░   36.16 % 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             █████████████████░░░░░░░░   66.67 % 
+Assembly                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/goldfishh/goldfishh/main/assets/bar_graph.png)
+
+
+ Last Updated on 04/05/2023 16:28:55 UTC
 <!--END_SECTION:waka-->
 
 -------
